@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StockTest</string>
+
+
+
+    <string name="error">Error: %1$s</string>
+    <string name="stock_list_title">Stock list in live</string>
+    <string name="history_title">History</string>
+
+    <string name="https_image_url">https://image.tmdb.org/t/p/w500%1$s</string>
+    <string name="back_button">Back Button</string>
+</resources>
